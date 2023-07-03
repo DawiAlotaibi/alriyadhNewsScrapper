@@ -21,6 +21,24 @@ This is a Node.js script that uses Puppeteer to scrape article links from the we
   The script will launch a headless Chrome browser, navigate to the target website, scrape the article links, capture screenshots of each article, and save them in a folder named with the current date.
 ## Sample outputs
 
+1. **CMD Execution**
+
+![CMD Execution](images/cmd.png)
+
+This image shows the execution of the script in the command line interface (CMD).
+
+2. **Output Folder**
+
+![Output Folder](images/output.png)
+
+This image displays the folder where the screenshot outputs or results are saved.
+
+3. **Sample Screenshot**
+
+<img src="images/sample1.png" alt="Sample Screenshot" width="720" height="720" />
+
+This image showcases a sample screenshot captured by the script. It provides an example of how the articles are captured and saved as full-page screenshots. Note, it is compressed to be 720*720px.
+
 
 ## Capabilities and Limitations
 
